@@ -1,15 +1,15 @@
-﻿Pronostico,Temperatura,Humedad,Viento ,Asado
-soleado,36,alta,leve,no
-soleado,28,alta,fuerte,no
-nublado,30,alta,leve,si
-lluvioso,20,alta,leve,si
-lluvioso,2,normal,leve,si
-lluvioso,5,normal,fuerte,no
-nubaldo,11,normal,fuerte,si
-soleado,22,alta,leve,no
-soleado,9,normal,leve,si
-lluvioso,17,normal,leve,si
-soleado,19,normal,fuerte,si
-nublado,22,alta,fuerte,si
-nublado,27,normal,leve,si
-lluvioso,21,alta,fuerte,no
+Pronostico,Temperatura,Humedad,Viento ,Asado
+soleado,36,alta,leve,0
+soleado,28,alta,fuerte,0
+nublado,30,alta,leve,1
+lluvioso,20,alta,leve,1
+lluvioso,2,normal,leve,1
+lluvioso,5,normal,fuerte,0
+nubaldo,11,normal,fuerte,1
+soleado,22,alta,leve,0
+soleado,9,normal,leve,1
+lluvioso,17,normal,leve,1
+soleado,19,normal,fuerte,1
+nublado,22,alta,fuerte,1
+nublado,27,normal,leve,1
+lluvioso,21,alta,fuerte,0
